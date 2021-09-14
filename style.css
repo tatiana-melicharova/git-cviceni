@@ -6,7 +6,8 @@ body {
 }
 
 header {
-    color: #166088;
+    background-color: #166088;
+    color: white;
 }
 
 main {
