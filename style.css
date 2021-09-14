@@ -8,10 +8,14 @@ body {
 header {
     background-color: #166088;
     color: white;
-    padding: 3em;
+    padding: 2em;
 }
 
 main {
     font-size: 20px;
     padding: 3em 0;
+}
+
+footer {
+    background-color: #dbe9ee;
 }
